@@ -1,0 +1,53 @@
+.text-color {
+  color: white;
+  text-decoration: none;
+  margin-left: 30px;
+}
+.Header {
+  margin-left: 45%;
+}
+.middle-para {
+  margin-top: 50px;
+  margin-left: 100px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 350;
+  font-size: 20px;
+}
+.our {
+  font-weight: 1000;
+  font-size: 70px;
+  color: white;
+  margin-top: -250px;
+  margin-left: 50px;
+}
+.under_score {
+  margin-top: -70%;
+}
+.middle-para2 {
+  margin-left: 100px;
+  padding-left: 80px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+}
+.middle-para3 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+}
+.middle-para-3_1 {
+  padding-top: 29px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28px;
+  color: #b39393;
+}
